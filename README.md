@@ -4,4 +4,4 @@ This study presents a novel approach to seizure detection by leveraging the uniq
 
 Code can be updated according to desired and relevant datasets. Code inspired by the research of:
 
-Zheng, H., Zheng, Z., Hu, R., Xiao, B., Wu, Y., Yu, F., ... & Deng, L. (2024). Temporal dendritic heterogeneity incorporated with spiking neural networks for learning multi-timescale dynamics. Nature Communications, 15(1), 277.
+Zheng, Hanle, Zhong Zheng, Rui Hu, Bo Xiao, Yujie Wu, Fangwen Yu, Xue Liu, Guoqi Li, and Lei Deng. "Temporal dendritic heterogeneity incorporated with spiking neural networks for learning multi-timescale dynamics." Nature Communications 15, no. 1 (2024): 277.
